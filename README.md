@@ -22,8 +22,6 @@ yarn start
 We are considering only entries of two or four records. Any entry with 5+ records must be adjusted or will be ignored.
 
 
----
-
 ## Contributors
 
 <table>
@@ -38,8 +36,6 @@ We are considering only entries of two or four records. Any entry with 5+ record
     </tr>
   </tbody>
 </table>
-
-----
 
 ## License
 
