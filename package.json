@@ -1,0 +1,19 @@
+{
+  "name": "rep-data-parser-c108u",
+  "version": "1.0.0",
+  "description": "Data parser for REP model C108U",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/radargovernamental/rep-data-parser-c108u",
+  "author": "radargovernamental",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/radargovernamental/entradas-usuarios#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "xlsx": "^0.12.12"
+  }
+}
